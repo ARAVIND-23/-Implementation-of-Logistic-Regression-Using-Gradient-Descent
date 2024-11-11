@@ -70,24 +70,43 @@ def predict(theta,X): X_train =np.hstack((np.ones((X.shape[0],1)),X)) prob=sigmo
 
 ## Output:
 Array Value of x
+
 ![Screenshot 2024-11-11 230923](https://github.com/user-attachments/assets/3982f3a3-9714-44e5-85c5-3dcc6e3ca976)
+
 Array Value of y
+
 ![Screenshot 2024-11-11 231021](https://github.com/user-attachments/assets/89c71bd4-e5ae-4d3c-b88b-b1d77a11523d)
+
 Exam 1 - score graph
+
 ![Screenshot 2024-11-11 231107](https://github.com/user-attachments/assets/a53ad351-a0a5-4905-ad31-3976f21cd17d)
+
 Sigmoid function graph
+
 ![Screenshot 2024-11-11 231150](https://github.com/user-attachments/assets/087c29c6-a8cf-487a-bc90-aaf60171101a)
+
 X_train_grad value
+
 ![Screenshot 2024-11-11 231226](https://github.com/user-attachments/assets/811cf487-c1c2-4a8f-ada7-d11ca456135e)
+
 Y_train_grad value
+
 ![Screenshot 2024-11-11 231306](https://github.com/user-attachments/assets/fa8ca715-e26c-43e3-8212-958a4f5495de)
+
 Print res.x
+
 ![Screenshot 2024-11-11 231416](https://github.com/user-attachments/assets/61bc3bcf-d840-4c58-b9c4-fcd4d9ba8b37)
+
 Decision boundary - graph for exam score
+
 ![Screenshot 2024-11-11 231529](https://github.com/user-attachments/assets/a0067f18-4595-4a31-a5e2-84511abf210c)
+
 Proability value
+
 ![Screenshot 2024-11-11 231604](https://github.com/user-attachments/assets/12377efc-df6b-4727-9448-de63a917a057)
+
 Prediction value of mean
+
 ![Screenshot 2024-11-11 231639](https://github.com/user-attachments/assets/c6ce5673-ea98-495b-9b5d-21acade7b449)
 
 ## Result:
